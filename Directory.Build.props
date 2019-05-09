@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <RootNamespace>ProvisionData</RootNamespace>
+    <Authors>Doug Wilson</Authors>
+    <Company>Provision Data Systems Inc.</Company>
+    <Product>Service Hosting</Product>
+    <Description>Provides infrastructure to turn a .NET Core application into a Windows Service</Description>
+    <Copyright>Copyright 2019 Provision Data Systems Inc.</Copyright>
+    <NeutralLanguage>en</NeutralLanguage>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+  </PropertyGroup>
+</Project>

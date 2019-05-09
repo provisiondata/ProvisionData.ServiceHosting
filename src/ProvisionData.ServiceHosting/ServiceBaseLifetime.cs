@@ -1,4 +1,4 @@
-﻿namespace PDSI.ServiceHosting
+﻿namespace ProvisionData.ServiceHosting
 {
     using Microsoft.Extensions.Hosting;
 
