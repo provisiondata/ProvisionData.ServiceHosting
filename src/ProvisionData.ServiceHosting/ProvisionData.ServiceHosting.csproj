@@ -10,6 +10,10 @@
     <FileVersion>0.0.1</FileVersion>
     <InformationalVersion>0.0.1</InformationalVersion>
     <PackageVersion>0.0.1</PackageVersion>
+    <RepositoryType>Git</RepositoryType>
+    <RepositoryUrl>https://github.com/provisiondata/ProvisionData.ServiceHosting</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/provisiondata/ProvisionData.ServiceHosting</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
